@@ -2,6 +2,8 @@
 
 A full-stack database management project developed using **ASP.NET Web Forms (C#)** and **SQL Server**. This system tracks detailed records of criminals, victims, officers, court cases, and more — useful for law enforcement simulations, data analysis, or forensic practice.
 
+# Entity-Relationship Diagram
+![](https://github.com/JaveriahFaheemOG/Criminal-Records-System/blob/main/Criminal_Record.png)
 ---
 
 ## 📌 Features
