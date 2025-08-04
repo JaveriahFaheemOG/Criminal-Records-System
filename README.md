@@ -64,6 +64,7 @@ Make sure Initial Catalog matches your DB name: Criminal_Record
 
 ### ▶️ Step 3: Run the Project
 
+(make sure to put the 'properties' folder inside the 'DB_PROKECT' folder first)
 1. Open DB_PROJECT.sln in Visual Studio
 2. Wait for it to load all dependencies
 3. Press F5 or click the green Start button (play icon)
