@@ -81,3 +81,8 @@ Your default browser will launch with the login or dashboard interface
 ![](https://github.com/JaveriahFaheemOG/Criminal-Records-System/blob/main/view_dashboard.png)
 
 ![](https://github.com/JaveriahFaheemOG/Criminal-Records-System/blob/main/recordadding_form.png)
+
+### Authors
+- Ayesha Areej - FAST NU
+- Javeriah Faheem - FAST NU
+- Sabreena Azhar - FAST NU
